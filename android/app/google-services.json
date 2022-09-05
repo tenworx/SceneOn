@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966707954635",
+    "project_id": "scene-on-58cfc",
+    "storage_bucket": "scene-on-58cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966707954635:android:0264efebb2f155b7fd6c4e",
+        "android_client_info": {
+          "package_name": "com.example.test_travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966707954635-5euprdakirl6n8bip7c68ot0071n3jkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACD_KS5WNDhgW5lg_iJbRFq3-gdVw1MOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966707954635-5euprdakirl6n8bip7c68ot0071n3jkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
